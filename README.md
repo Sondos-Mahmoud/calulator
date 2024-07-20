@@ -10,9 +10,8 @@ This project is a simple calculator implemented using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[![Calculator Demo]](demo.mp4)
+[Click here to watch the demo video](demo.mp4)
 
-Click on the image above to watch the demo video.
 
 ## Installation
 
